@@ -1,2 +1,2 @@
-def greet():
-    print("Hello A and Hello B")
+def greet(): 
+    print("Hello from Developer B") 
