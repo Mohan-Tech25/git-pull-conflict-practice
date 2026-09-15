@@ -1,2 +1,1 @@
-"# git-pull-conflict-practice" 
-REMOTE CHANGE
+"# REMOTE CHANGE" 
