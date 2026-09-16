@@ -10,6 +10,7 @@ def greet():
     print("New change from conflict-test")
     print("Hello from pull request branch")
     print("Created one new branch to check the pull request feature of GitHub")
+    print("New change added to main")
 
 
 greet()
