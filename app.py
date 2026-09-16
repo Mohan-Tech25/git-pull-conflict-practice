@@ -1,4 +1,5 @@
 def greet():
+    print("Hello from VS Code branch")
     print("Hello from main branch")
     print("Hello from Developer A")
     print("Hello from unfinished work")
