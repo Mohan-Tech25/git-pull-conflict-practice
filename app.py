@@ -2,7 +2,7 @@ def greet():
     print("Hello from VS Code branch")
     print("Hello from Developer A")
     print("Hello from unfinished work")
-    print("Change from feature-test branch")
+    print("Change from feature-test branch manually added")
 
     print(" Switching from feature-test to main branch and adding a new line")
 
