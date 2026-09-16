@@ -4,3 +4,5 @@ def greet():
     print("Change from feature-test branch")
 
     print(" Switching from feature-test to main branch and adding a new line")
+
+    print( "pulled the main branch from repo and added a new line to the main branch then push to the repo")
